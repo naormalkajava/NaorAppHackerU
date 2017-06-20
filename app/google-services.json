@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "406356302979",
+    "firebase_url": "https://myapplication2-5d67e.firebaseio.com",
+    "project_id": "myapplication2-5d67e",
+    "storage_bucket": "myapplication2-5d67e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406356302979:android:a226c5caaaf067e7",
+        "android_client_info": {
+          "package_name": "com.example.ericbell.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "406356302979-03cht7g6s7n9bhpas9m4b2i86l7l7ss2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ericbell.myapplication",
+            "certificate_hash": "7a3a8b431062a2db22a8cfd70e1b1307a0386ac6"
+          }
+        },
+        {
+          "client_id": "406356302979-akg1rj0u625e3fbojn2vd7lovl92tr4k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBz9kyVWBY6rMwZk-WzwzhBgrLKevprIOQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "406356302979-akg1rj0u625e3fbojn2vd7lovl92tr4k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
